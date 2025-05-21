@@ -7,6 +7,11 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'RCR',
+			logo: {
+				light: '/src/assets/logo.png',
+				dark: '/src/assets/logo-dark.png',
+				replacesTitle: true,
+			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/rafaelcesar0/' },
 				{ icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/in/rafaelcesar0/' },
 				{ icon: 'email', label: 'Email', href: 'mailto:rafael.cesar.dev@gmail.com' },

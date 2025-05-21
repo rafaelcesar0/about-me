@@ -1,12 +1,12 @@
 ---
-title: Experiências Profissionais
+title: 💼 Experiências Profissionais
 sidebar:
   order: 1
 ---
 
 ## [Cardapiro](https://lp.cardapiro.com.br/)
 
-Engenheiro de Software | Remoto | Abril/2025 - Atual
+**Engenheiro de Software** | Remoto | Abril/2025 - Atual
 
 - Lidero o desenvolvimento full stack de plataforma SaaS para cardápios digitais
 - Implementei arquitetura escalável e boas práticas de desenvolvimento para crescimento exponencial
